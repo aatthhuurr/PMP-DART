@@ -14,5 +14,5 @@ void cekKelulusan(String nama, int nilai) {
 
 void main() {
   cekKelulusan("Indra", 80);
-  cekKelulusan("Hanin", 70);
+  cekKelulusan("Rifqi", 70);
 }
