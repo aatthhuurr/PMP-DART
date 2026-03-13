@@ -1,5 +1,4 @@
 void cekKelulusan(String nama, int nilai) {
-
   if (nilai >= 75) {
     print("Mahasiswa: $nama");
     print("Nilai: $nilai");
@@ -13,6 +12,6 @@ void cekKelulusan(String nama, int nilai) {
 }
 
 void main() {
-  cekKelulusan("Indra", 80);
-  cekKelulusan("Rifqi", 70);
+  cekKelulusan("Indra", 74);
+  cekKelulusan("Rifqi", 75);
 }
